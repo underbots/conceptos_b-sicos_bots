@@ -1,6 +1,7 @@
 # Instalación de pip
 
-` sudo apt-get install pip` intalación de pip
+` sudo apt-get install python3-pip`
+intalación de pip
 ` pip3 install pip` Actualización de pip
 
 
@@ -24,7 +25,7 @@ wed mediante la que hacemos los bots
 https://python-telegram-bot.org/ 
 
 Comando para instalarse el bots: 
-"""
+```
 $ pip install python-telegram-bot
 $ python bot.py
-"""
+```
